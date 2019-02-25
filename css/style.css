@@ -60,3 +60,12 @@ body {
   width: 16px;
   color: #fff;
 }
+
+.alink{
+color: #E05749;
+text-decoration: none;
+}
+
+.alink:hover{
+color: #db220f;
+}
